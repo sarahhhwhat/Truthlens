@@ -4,7 +4,7 @@ A misinformation and content-credibility checker, built for **First Commit**
 (Bharat Builds Tour) — Build It track, running entirely on **Amazon Bedrock**
 via **PartyRock**.
 
-**Live app:** _add your PartyRock share link here_
+**Live app:** https://partyrock.aws/u/sarahhhwhat/cgwLc5Ww-/Truthlens
 
 ## What it does
 
